@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from 'react'
 import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
-import uploadImg from '../assets/uploadimage2.png'
+import uploadImg from '../assets/uploadimage.png'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { addProjectAPI } from '../services/allAPI';
